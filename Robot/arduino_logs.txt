@@ -1,0 +1,36 @@
+2025-10-19 20:41:43.295264 user: M100
+2025-10-19 20:41:44.319842 arduino: ACK, moving
+2025-10-19 20:41:46.717020 user: M256
+2025-10-19 20:41:47.746843 arduino: ACK, moving
+2025-10-19 20:41:50.835460 user: M-250
+2025-10-19 20:41:51.861702 arduino: ACK, moving
+2025-10-19 20:42:07.484653 user: R350
+2025-10-19 20:42:08.512910 arduino: ACK, rotating
+2025-10-20 11:26:38.851122 user: M100
+2025-10-20 11:26:39.877071 arduino: ACK, moving
+2025-10-20 11:26:45.039175 user: R100
+2025-10-20 11:26:46.069091 arduino: ACK, rotating
+2025-10-20 11:26:51.031024 user: S
+2025-10-20 11:26:52.054587 arduino: ACK, stopping
+2025-10-20 11:26:54.345926 user: B
+2025-10-20 11:26:55.388530 arduino: ACK, getting sonar info in cm
+2025-10-20 13:44:34.993292 user: V100
+2025-10-20 13:44:36.024465 arduino: ACK, setting speed
+2025-10-20 13:44:38.421428 user: M100
+2025-10-20 13:44:39.455043 arduino: ACK, moving
+2025-10-20 13:44:44.189789 user: V100
+2025-10-20 13:44:45.221775 arduino: ACK, setting speed
+2025-10-20 13:44:49.893811 user: B
+2025-10-20 13:44:50.937523 arduino: ACK, getting sonar info in cm
+2025-10-20 18:17:47.391888 user: M100
+2025-10-20 18:17:47.416144 arduino: ACK, moving
+2025-10-20 18:17:57.875064 user: R100
+2025-10-20 18:17:57.902329 arduino: ACK, rotating
+2025-10-20 18:18:00.615913 user: V300
+2025-10-20 18:18:00.646812 arduino: ACK, setting speed
+2025-10-20 18:18:03.613680 user: B
+2025-10-20 18:18:03.653214 arduino: ACK, getting sonar info in cm
+2025-10-20 18:18:06.434338 user: I
+2025-10-20 18:18:06.466932 arduino: ACK, getting IR info
+2025-10-20 18:18:09.007356 user: X
+2025-10-20 18:18:09.055431 arduino: ACK, getting status: Status: rotating
